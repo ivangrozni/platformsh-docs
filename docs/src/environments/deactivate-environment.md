@@ -55,7 +55,7 @@ highlight=false
 Run the following command:
 
 ```bash
-platform environment:deactivate <ENVIRONMENT_NAME>
+platform environment:delete <ENVIRONMENT_NAME>
 ```
 
 {{< /codetabs >}}
